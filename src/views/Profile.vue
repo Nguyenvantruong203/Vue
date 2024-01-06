@@ -21,7 +21,7 @@
                         <div class="flex flex-wrap justify-center">
                             <div class="w-full lg:w-3/12 px-4 lg:order-2 flex justify-center">
                                 <div class="relative">
-                                    <img alt="..." src=""
+                                    <img alt="..." src="https://i.imgur.com/eYuGRpY.jpg"
                                         class="shadow-xl rounded-full h-auto align-middle border-none absolute -m-16 -ml-20 lg:-ml-16"
                                         style="max-width: 150px;" />
                                 </div>
@@ -47,7 +47,7 @@
                         </div>
                         <div class="text-center mt-12">
                             <h3 class="text-4xl font-semibold leading-normal mb-2 text-gray-800">
-                                {{ currentUser.name }}
+                                {{ currentUser.name }}Nguyễn Văn Trường
                             </h3>
                             <div class="text-sm leading-normal mt-0 mb-2 text-gray-500 font-bold uppercase">
                                 <i class="fas fa-map-marker-alt mr-2 text-lg text-gray-500"></i>
@@ -58,8 +58,7 @@
                                 Creative Tim Officer
                             </div>
                             <div class="mb-2 text-gray-700">
-                                <i class="fas fa-university mr-2 text-lg text-gray-500"></i>University of Computer
-                                Science
+                                <i class="fas fa-university mr-2 text-lg text-gray-500"></i>University of Greenwich
                             </div>
                         </div>
                         <div class="mt-10 py-10 border-t border-gray-300 text-center">

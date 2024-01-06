@@ -1,29 +1,27 @@
-<template >
-    <footer class="container mx-auto bg-white py-8 border-t border-gray-400 ">
-        <div class="container flex px-3 py-8">
-            <div class="w-full mx-auto flex flex-wrap">
-                <div class="flex w-full lg:w-1/2 ">
-                    <div class="px-3 md:px-0 text-[#999999]">
-                        <h3 class="font-bold text-gray-900">About DEGREY</h3>
-                        <p class="py-4">
-                            The name Degrey was created very spontaneously, stemming from "A series of sad days about my own
-                            career and future in the past" - according to Degrey's founder.
-                        </p>
-                        <h1 class="mb-2">Địa chỉ</h1>
-
-                        <h1 class="font-bold">Sài Gòn:</h1>
-                        43 Huỳnh Văn Bánh P.17 Q.Phú Nhuận
-                        1041 Luỹ Bán Bích P.Tân Thành Q.Tân Phú
-                        Điện thoại: 0336311117
-                        Email: degrey.vn@gmail.com
-                    </div>
-                </div>
-                <div class="flex w-full lg:w-1/2 lg:justify-end lg:text-right mt-6 md:mt-0">
-                    <div class="px-3 md:px-0">
-                        <h3 class="text-left font-bold text-gray-900">Social</h3>
-
-                        <div class="w-full flex items-center py-4 mt-0">
-                            <a href="#" class="mx-2">
+<template>
+    <footer class="container mx-auto bg-white py-8 border-t border-gray-400">
+      <div class="container flex px-3 py-4">
+        <div class="w-full mx-auto flex flex-wrap">
+          <div class="flex w-full lg:w-1/2">
+            <div class="px-3 md:px-0 text-[#999999]">
+              <h3 class="font-bold text-gray-900">About DEGREY</h3>
+              <p class="py-4">
+                The name Degrey was created very spontaneously, stemming from "A series of sad days about my own
+                career and future in the past" - according to Degrey's founder.
+              </p>
+              <h1 class="font-bold">Địa chỉ</h1>
+              <p class="mb-2">Sài Gòn:</p>
+              <p class="mb-2">43 Huỳnh Văn Bánh P.17 Q.Phú Nhuận</p>
+              <p class="mb-2">1041 Luỹ Bán Bích P.Tân Thành Q.Tân Phú</p>
+              <p class="mb-2">Điện thoại: 0336311117</p>
+              <p>Email: degrey.vn@gmail.com</p>
+            </div>
+          </div>
+          <div class="flex w-full lg:w-1/2 lg:justify-end lg:text-right mt-6 md:mt-0">
+          <div class="px-3 md:px-0">
+            <h3 class="text-left font-bold text-gray-900">Social</h3>
+            <div class="w-full flex items-center py-4 mt-0">
+              <a href="#" class="mx-2">
                                 <svg class="w-6 h-6 fill-current" viewBox="0 0 24 24">
                                     <path
                                         d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z">
